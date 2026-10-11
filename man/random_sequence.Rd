@@ -9,9 +9,9 @@ random_sequence(n, rmin, rmax)
 \arguments{
 \item{n}{The number of random numbers generated, between 1 and 10. Integer.}
 
-\item{min}{The minimum number that can be generated. Float.}
+\item{rmin}{The minimum number that can be generated. Float.}
 
-\item{max}{The maximum number that can be generated. Float.}
+\item{rmax}{The maximum number that can be generated. Float.}
 }
 \value{
 A vector of numbers.

@@ -2,3 +2,4 @@
 
 export(bounds)
 export(random_sequence)
+importFrom(stats,runif)

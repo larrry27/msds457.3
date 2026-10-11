@@ -3,9 +3,10 @@
 #' Generates a list of up to ten random numbers that is bound on each end.
 #' @title "Generate a random sequence of 1-10 numbers"
 #' @param n The number of random numbers generated, between 1 and 10. Integer.
-#' @param min The minimum number that can be generated. Float.
-#' @param max The maximum number that can be generated. Float.
+#' @param rmin The minimum number that can be generated. Float.
+#' @param rmax The maximum number that can be generated. Float.
 #' @returns A vector of numbers.
+#' @importFrom stats runif
 #' @export
 #' @examples {random_sequence(3,1,10)}
 

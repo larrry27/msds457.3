@@ -3,6 +3,7 @@ Title: Module 3 Coding Quiz Submission - Larry Donahue
 Version: 1.0.0
 Authors@R: c(person("Larry", "Donahue", , "lawrencedonahueiv2027@u.northwestern.edu", role = c("aut", "cre")))
 Description: Assignment submission for Coding Quiz 3 for MSDS 457 at Northwestern University. Two simple functions within R packaging alongside proper documentation.
+License: MIT + file LICENSE
 URL: https://github.com/larrry27/msds457_3
 Config/roxygen2/version: 8.0.0
 Encoding: UTF-8
